@@ -1,0 +1,5 @@
+Host: sql11.freesqldatabase.com
+Database name: sql11413227
+Database user: sql11413227
+Database password: JHFu74vZvy
+Port number: 3306
