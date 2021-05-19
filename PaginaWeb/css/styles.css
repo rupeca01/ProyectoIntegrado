@@ -3825,8 +3825,8 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-services {
     background-color: var(--color-dark-bg);
-    padding-top: auto;
-    padding-bottom: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
     color: rgba(255, 255, 255, 0.4);
 }
 
@@ -3867,8 +3867,8 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-about {
     background-color: white;
-    padding-top: auto;
-    padding-bottom: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 .s-about h4 {
@@ -4057,8 +4057,8 @@ body.search-is-visible {
  * ------------------------------------------------------------------- */
 .s-contact {
     background-color: var(--color-dark-bg);
-    padding-top: auto;
-    padding-bottom: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
     color: rgba(255, 255, 255, 0.4);
 }
 
